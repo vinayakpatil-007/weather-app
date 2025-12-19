@@ -1,1 +1,1 @@
-# weather-app
+Weather App is a simple web application that allows users to check real-time weather information of any city. It displays temperature, humidity, wind speed, and weather conditions using live data from a weather API. The app provides a clean and user-friendly interface for quick weather updates.# weather-app
